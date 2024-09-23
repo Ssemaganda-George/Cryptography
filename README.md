@@ -62,3 +62,6 @@ During decryption, the appropriate mode (key) needs to be provided in order to c
 1. Run the script:
    ```bash
    python reverse.py
+
+
+pip install -r requirements.txt
