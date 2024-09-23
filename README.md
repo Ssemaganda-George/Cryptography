@@ -28,6 +28,8 @@ For example:
 
 
 
+
+
 # Simple Reversal Encryption/Decryption
 
 ## Overview
@@ -56,3 +58,7 @@ During decryption, the appropriate mode (key) needs to be provided in order to c
    Enter the text to encrypt: Hello World
    Encrypted text: olleH dlroW
    Provide the key '1' to the reader for decryption.
+
+1. Run the script:
+   ```bash
+   python reverse.py
