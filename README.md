@@ -27,9 +27,6 @@ For example:
 
 
 
-
-
-
 # Simple Reversal Encryption/Decryption
 
 ## Overview
@@ -63,7 +60,7 @@ During decryption, the appropriate mode (key) needs to be provided in order to c
    ```bash
    python reverse.py
 
-   
+
 
 ### To install dependencies, users can run:
 pip install -r requirements.txt
